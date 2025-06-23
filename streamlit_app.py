@@ -4,7 +4,7 @@ import qrcode
 import io
 
 # --------------------------
-# Setup: LCM Problem List (Sequential)
+# Setup: LCM Problem List
 problems = [
     (3, 5), (4, 6), (5, 7), (8, 9),
     (2, 7), (3, 8), (6, 9), (5, 11)
@@ -17,11 +17,11 @@ if "lcm_index" not in st.session_state:
 
 # --------------------------
 # Header
-st.title("🔁 LCM Lab (Sequential Mode)")
+st.title("🔁 LCM Lab")
 st.markdown("Type the LCM of the number pair shown. Get instant feedback and move to the next!")
 
 # Sidebar with QR code
-st.sidebar.header("Scan This QR Code to View Menu Online")
+st.sidebar.header("Open this app on your mobile device")
 
 qr_link = "https://lcm-lab.streamlit.app"
 qr = qrcode.make(qr_link)
