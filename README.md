@@ -60,7 +60,7 @@ This app is designed to be used in conjunction with a [worksheet](https://www.ed
 ---
 
 ## 📝 Worksheet Integration
-This app is designed to work with the [worksheet](https://www.education.com/worksheet/article/lcm-easy/) or another worksheet containing problems like the following:
+This app is designed to work with a [worksheet](https://www.education.com/worksheet/article/lcm-easy/) containing problems like the following:
 
 1. What is the LCM of 3 and 5?
 2. What is the LCM of 2 and 7?
