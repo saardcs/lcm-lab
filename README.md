@@ -4,7 +4,7 @@ An interactive web app for practicing the Least Common Multiple (LCM) with a ser
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lcm-lab.streamlit.app)
 
-![Screenshot 1](/media/e3418aba-c3ab-4a71-8c19-559888fa66fb.png)
+![Screenshot 1](b01616d3-69d2-4e24-8ad1-0b9d6eff2825.png)
 
 ---
 
