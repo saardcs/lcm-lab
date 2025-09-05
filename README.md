@@ -103,7 +103,6 @@ st.markdown("This version is customized for your class!")
 If you want the QR code to link to a different app (for example, if you host the app on a different platform), simply change the qr_link variable:
 
 ```python
-Copy code
 qr_link = "https://your-new-app-link.streamlit.app"
 ```
 
