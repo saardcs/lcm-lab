@@ -10,7 +10,7 @@ An interactive web app for practicing the Least Common Multiple (LCM) with a ser
 
 **LCM Lab** helps students practice calculating the **LCM (Least Common Multiple)** of pairs of numbers using the **listing method**. The app provides a set of problems where students can input their answers and check if they're correct.
 
-This app is designed to be used in conjunction with a worksheet like [this one](https://www.education.com/worksheet/article/lcm-easy/), where students will solve the LCM problems on paper first, then input their answers into the app to get immediate feedback.
+This app is designed to be used in conjunction with a [worksheet](https://www.education.com/worksheet/article/lcm-easy/), where students will solve the LCM problems on paper first, then input their answers into the app to get immediate feedback.
 
 ---
 
