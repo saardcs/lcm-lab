@@ -1,6 +1,6 @@
 # 🔁 LCM Lab
 
-An interactive web app for practicing the Least Common Multiple (LCM) with a series of problems, designed to complement a worksheet. Students can solve problems manually on the [worksheet](https://www.education.com/worksheet/article/lcm-easy/) and then use the app to independently check their answers.
+An interactive web app for practicing the Least Common Multiple (LCM) with a series of problems, designed to complement a [worksheet](https://www.education.com/worksheet/article/lcm-easy/). Students can solve problems manually on the worksheet and then use the app to independently check their answers.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lcm-lab.streamlit.app)
 
